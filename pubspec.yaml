@@ -1,4 +1,4 @@
-name: social_share_workspace
+name: social_share_plugin_plus
 
 environment:
     sdk: ">=2.18.0 <4.0.0"
