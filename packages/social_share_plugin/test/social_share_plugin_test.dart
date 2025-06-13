@@ -1,8 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:social_share_plugin/social_share_plugin.dart';
 import 'package:social_share_plugin_platform_interface/social_share_plugin_platform_interface.dart';
+import 'package:social_share_plugin_plus/social_share_plugin.dart';
 
 class MockSocialSharePluginPlatform extends Mock
     with MockPlatformInterfaceMixin
