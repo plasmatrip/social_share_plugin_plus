@@ -1,6 +1,6 @@
 name: social_share_plugin_plus
 description: Social Share to Facebook and Instagram Flutter plugin.
-version: 0.4.2+2
+version: 0.4.3+3
 homepage: https://github.com/romatroskin/social_share_plugin/tree/master/packages/social_share_plugin
 
 environment:
