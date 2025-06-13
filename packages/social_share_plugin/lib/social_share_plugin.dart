@@ -67,7 +67,8 @@ Future<dynamic> shareToTwitterLink({
 }) async {
   return _platform.shareToTwitterLink(
     url: url,
-    text: Uri.encodeComponent(text ?? ''),
+    text: text ?? '',
+    // text: Uri.encodeComponent(text ?? ''),
     onSuccess: onSuccess,
     onCancel: onCancel,
   );
